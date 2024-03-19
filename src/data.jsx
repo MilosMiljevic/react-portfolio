@@ -44,7 +44,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'src/assets/twc3.jpg',
+    img: 'public/twc3.jpg',
     url: 'https://theworldconference.io/',
     title: 'TWC3',
     text: 'The World Web3 Conference website'
@@ -52,98 +52,98 @@ export const projects = [
 
   {
     id: nanoid(),
-    img: 'src/assets/DiamondVision.jpg',
+    img: 'public/DiamondVision.jpg',
     url: 'https://diamondvision.com/',
     title: 'Diamond Vision',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/FloridaGroves.jpg',
+    img: 'public/FloridaGroves.jpg',
     url: 'https://floridagroves.com/',
     title: 'Florida Groves',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/cricketpavers.jpg',
+    img: 'public/cricketpavers.jpg',
     url: 'https://www.cricketpavers.com/',
     title: 'Cricket Pavers',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/autoshow.jpg',
+    img: 'public/autoshow.jpg',
     url: 'https://www.miamiautoshows.com/',
     title: 'Miami Auto Show',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/catapult.jpg',
+    img: 'public/catapult.jpg',
     url: 'https://catapulthq.com/',
     title: 'CatapultHQ',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/datang.jpg',
+    img: 'public/datang.jpg',
     url: 'https://datangzhenwei.com/',
     title: 'Da Tang Restaurant',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/checkissuing.jpg',
+    img: 'public/checkissuing.jpg',
     url: 'https://www.checkissuing.com/',
     title: 'CheckIssuing',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/newent.jpg',
+    img: 'public/newent.jpg',
     url: 'https://newentertainment.net/',
     title: 'New Etertainment',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/pronova.jpg',
+    img: 'public/pronova.jpg',
     url: 'https://pronovacorp.com/',
     title: 'Pronova',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/pettap.jpg',
+    img: 'public/pettap.jpg',
     url: 'https://thepettap.com/',
     title: 'Pet Tap',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/hangout.jpg',
+    img: 'public/hangout.jpg',
     url: 'https://www.hangoutcreations.com/',
     title: 'Hangout Creations',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/natur.jpg',
+    img: 'public/natur.jpg',
     url: 'https://naturaqua.rs/',
     title: 'NaturAqua',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/nose.jpg',
+    img: 'public/nose.jpg',
     url: 'https://nosemask.info/',
     title: 'Nose Mask',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
     id: nanoid(),
-    img: 'src/assets/trin.jpg',
+    img: 'public/trin.jpg',
     url: 'https://www.trinitysmartit.com/',
     title: 'Trinity IT',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
