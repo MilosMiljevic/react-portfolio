@@ -6,7 +6,7 @@ const About = () => {
       <div className="align-element grid  md:grid-cols-2 items-center gap-16">
         <img src={aboutSvg} className="w-full h-64" />
         <article>
-          <SectionTitle text="code and coffee" />
+          <SectionTitle text="about me" />
           <p className="text-slate-600 mt-8 leading-loose">
             I'm a seasoned WordPress developer and website editor with 5 years
             of hands-on experience. Currently serving as the WordPress Team
