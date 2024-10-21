@@ -15,6 +15,9 @@ import pettap from '/src/assets/pettap.jpg';
 import pronova from '/src/assets/pronova.jpg';
 import trin from '/src/assets/trin.jpg';
 import twc3 from '/src/assets/twc3.jpg';
+import jimd from '/src/assets/jimdandy.jpg';
+import dominicks from '/src/assets/dominicks.jpg';
+import bullet from '/src/assets/bulletproof.jpg';
 
 export const links = [
   { id: nanoid(), href: '#home', text: 'home' },
@@ -57,6 +60,27 @@ export const skills = [
 ];
 
 export const projects = [
+  {
+    id: nanoid(),
+    img: bullet,
+    url: 'https://bulletproofinc.co/',
+    title: 'Bulletproof',
+    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
+  },
+  {
+    id: nanoid(),
+    img: jimd,
+    url: 'https://jimdandycleaners.com/',
+    title: 'Jim Dandy Cleaners',
+    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
+  },
+  {
+    id: nanoid(),
+    img: dominicks,
+    url: 'https://dominicksdistributor.com/',
+    title: 'Dominicks Distributors',
+    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
+  },
   {
     id: nanoid(),
     img: twc3,
