@@ -124,13 +124,7 @@ export const projects = [
     title: 'CatapultHQ',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
-  {
-    id: nanoid(),
-    img: datang,
-    url: 'https://datangzhenwei.com/',
-    title: 'Da Tang Restaurant',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
-  },
+
   {
     id: nanoid(),
     img: checkissuing,
@@ -157,13 +151,6 @@ export const projects = [
     img: pettap,
     url: 'https://thepettap.com/',
     title: 'Pet Tap',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
-  },
-  {
-    id: nanoid(),
-    img: hangout,
-    url: 'https://www.hangoutcreations.com/',
-    title: 'Hangout Creations',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   },
   {
