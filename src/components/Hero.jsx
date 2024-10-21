@@ -1,5 +1,5 @@
 import heroImg from '../assets/hero.svg';
-import { FaGithubSquare, FaLinkedin } from 'react-icons/fa';
+import { FaGithubSquare, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 const Hero = () => {
   return (
@@ -22,6 +22,9 @@ const Hero = () => {
               target="_blank"
             >
               <FaLinkedin className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
+            </a>
+            <a href="mailto:m.miljevic1988@gmail.com" target="_blank">
+              <FaEnvelope className="h-8 w-8 text-slate-500 hover:text-black duration-300" />
             </a>
           </div>
         </article>
