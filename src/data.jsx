@@ -166,12 +166,5 @@ export const projects = [
     url: 'https://nosemask.info/',
     title: 'Nose Mask',
     text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
-  },
-  {
-    id: nanoid(),
-    img: trin,
-    url: 'https://www.trinitysmartit.com/',
-    title: 'Trinity IT',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.'
   }
 ];
